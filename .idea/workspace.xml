@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9e9c2029-c67b-4de4-a1bd-a30ce30ab1e6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1eTbRVqoL92w7bVBoTYGjAuMid2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ToolWindowDebug.ShowToolbar" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Asus\Documents\opencv_python" />
+      <recent name="C:\Users\Asus\Documents\opencv_python\group.jpg" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.face_detection">
+    <configuration name="bitwise_operations" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="opencv_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bitwise_operations.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="face_detection" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="opencv_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/face_detection.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hsv_color_space" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="opencv_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hsv_color_space.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="thresholding" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="opencv_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/thresholding.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="trackbar2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="opencv_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/trackbar2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.face_detection" />
+        <item itemvalue="Python.thresholding" />
+        <item itemvalue="Python.hsv_color_space" />
+        <item itemvalue="Python.bitwise_operations" />
+        <item itemvalue="Python.trackbar2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e9c2029-c67b-4de4-a1bd-a30ce30ab1e6" name="Default Changelist" comment="" />
+      <created>1594348521070</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594348521070</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="0" key="#Notifications" timestamp="1599805494815">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#Notifications/0.0.1280.680@0.0.1280.680" timestamp="1599805494814" />
+    <state x="396" y="40" key="#xdebugger.evaluate" timestamp="1599805259663">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="396" y="40" key="#xdebugger.evaluate/0.0.1280.680@0.0.1280.680" timestamp="1599805259663" />
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1594439705330">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1594439705330" />
+    <state width="1259" height="154" key="GridCell.Tab.0.bottom" timestamp="1600403766314">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="154" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1600403766314" />
+    <state width="1259" height="154" key="GridCell.Tab.0.center" timestamp="1600403766314">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="154" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1600403766314" />
+    <state width="1259" height="154" key="GridCell.Tab.0.left" timestamp="1600403766314">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="154" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1600403766314" />
+    <state width="1259" height="154" key="GridCell.Tab.0.right" timestamp="1600403766314">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="154" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1600403766314" />
+    <state width="1244" height="200" key="GridCell.Tab.1.bottom" timestamp="1599806177108">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1244" height="200" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1599806177108" />
+    <state width="1244" height="200" key="GridCell.Tab.1.center" timestamp="1599806177108">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1244" height="200" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1599806177108" />
+    <state width="1244" height="200" key="GridCell.Tab.1.left" timestamp="1599806177108">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1244" height="200" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1599806177108" />
+    <state width="1244" height="200" key="GridCell.Tab.1.right" timestamp="1599806177108">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1244" height="200" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1599806177108" />
+    <state x="135" y="0" key="SettingsEditor" timestamp="1600694727596">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="135" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1600694727596" />
+    <state x="313" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1601300590584">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="313" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1601300590584" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1594445506891">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1594445506891" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="l_h" language="Python" />
+        <watch expression="l_h" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
